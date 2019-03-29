@@ -1,0 +1,7 @@
+C:\Users\delya\source\repos\XMLSerializer\XMLSerializer\bin\Debug\XMLSerializer.exe.config
+C:\Users\delya\source\repos\XMLSerializer\XMLSerializer\bin\Debug\XMLSerializer.exe
+C:\Users\delya\source\repos\XMLSerializer\XMLSerializer\bin\Debug\XMLSerializer.pdb
+C:\Users\delya\source\repos\XMLSerializer\XMLSerializer\obj\Debug\XMLSerializer.csprojAssemblyReference.cache
+C:\Users\delya\source\repos\XMLSerializer\XMLSerializer\obj\Debug\XMLSerializer.csproj.CoreCompileInputs.cache
+C:\Users\delya\source\repos\XMLSerializer\XMLSerializer\obj\Debug\XMLSerializer.exe
+C:\Users\delya\source\repos\XMLSerializer\XMLSerializer\obj\Debug\XMLSerializer.pdb

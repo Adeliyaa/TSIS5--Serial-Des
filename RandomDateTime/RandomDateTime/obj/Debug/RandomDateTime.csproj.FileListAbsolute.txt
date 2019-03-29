@@ -1,0 +1,7 @@
+C:\Users\delya\source\repos\RandomDateTime\RandomDateTime\bin\Debug\RandomDateTime.exe.config
+C:\Users\delya\source\repos\RandomDateTime\RandomDateTime\bin\Debug\RandomDateTime.exe
+C:\Users\delya\source\repos\RandomDateTime\RandomDateTime\bin\Debug\RandomDateTime.pdb
+C:\Users\delya\source\repos\RandomDateTime\RandomDateTime\obj\Debug\RandomDateTime.csprojAssemblyReference.cache
+C:\Users\delya\source\repos\RandomDateTime\RandomDateTime\obj\Debug\RandomDateTime.csproj.CoreCompileInputs.cache
+C:\Users\delya\source\repos\RandomDateTime\RandomDateTime\obj\Debug\RandomDateTime.exe
+C:\Users\delya\source\repos\RandomDateTime\RandomDateTime\obj\Debug\RandomDateTime.pdb

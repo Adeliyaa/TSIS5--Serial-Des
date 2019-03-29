@@ -1,0 +1,7 @@
+C:\Users\delya\source\repos\BinFormatter\BinFormatter\bin\Debug\BinFormatter.exe.config
+C:\Users\delya\source\repos\BinFormatter\BinFormatter\bin\Debug\BinFormatter.exe
+C:\Users\delya\source\repos\BinFormatter\BinFormatter\bin\Debug\BinFormatter.pdb
+C:\Users\delya\source\repos\BinFormatter\BinFormatter\obj\Debug\BinFormatter.csprojAssemblyReference.cache
+C:\Users\delya\source\repos\BinFormatter\BinFormatter\obj\Debug\BinFormatter.csproj.CoreCompileInputs.cache
+C:\Users\delya\source\repos\BinFormatter\BinFormatter\obj\Debug\BinFormatter.exe
+C:\Users\delya\source\repos\BinFormatter\BinFormatter\obj\Debug\BinFormatter.pdb

@@ -1,0 +1,7 @@
+C:\Users\delya\source\repos\Override\Override\bin\Debug\Override.exe.config
+C:\Users\delya\source\repos\Override\Override\bin\Debug\Override.exe
+C:\Users\delya\source\repos\Override\Override\bin\Debug\Override.pdb
+C:\Users\delya\source\repos\Override\Override\obj\Debug\Override.csprojAssemblyReference.cache
+C:\Users\delya\source\repos\Override\Override\obj\Debug\Override.csproj.CoreCompileInputs.cache
+C:\Users\delya\source\repos\Override\Override\obj\Debug\Override.exe
+C:\Users\delya\source\repos\Override\Override\obj\Debug\Override.pdb
