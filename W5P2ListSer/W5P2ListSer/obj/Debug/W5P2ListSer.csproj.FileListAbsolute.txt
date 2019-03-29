@@ -1,0 +1,7 @@
+C:\Users\delya\source\repos\W5P2ListSer\W5P2ListSer\obj\Debug\W5P2ListSer.csprojAssemblyReference.cache
+C:\Users\delya\source\repos\W5P2ListSer\W5P2ListSer\obj\Debug\W5P2ListSer.csproj.CoreCompileInputs.cache
+C:\Users\delya\source\repos\W5P2ListSer\W5P2ListSer\bin\Debug\W5P2ListSer.exe.config
+C:\Users\delya\source\repos\W5P2ListSer\W5P2ListSer\bin\Debug\W5P2ListSer.exe
+C:\Users\delya\source\repos\W5P2ListSer\W5P2ListSer\bin\Debug\W5P2ListSer.pdb
+C:\Users\delya\source\repos\W5P2ListSer\W5P2ListSer\obj\Debug\W5P2ListSer.exe
+C:\Users\delya\source\repos\W5P2ListSer\W5P2ListSer\obj\Debug\W5P2ListSer.pdb

@@ -1,0 +1,7 @@
+C:\Users\delya\source\repos\W5E5ListSerialization\W5E5ListSerialization\bin\Debug\W5E5ListSerialization.exe.config
+C:\Users\delya\source\repos\W5E5ListSerialization\W5E5ListSerialization\bin\Debug\W5E5ListSerialization.exe
+C:\Users\delya\source\repos\W5E5ListSerialization\W5E5ListSerialization\bin\Debug\W5E5ListSerialization.pdb
+C:\Users\delya\source\repos\W5E5ListSerialization\W5E5ListSerialization\obj\Debug\W5E5ListSerialization.csprojAssemblyReference.cache
+C:\Users\delya\source\repos\W5E5ListSerialization\W5E5ListSerialization\obj\Debug\W5E5ListSerialization.csproj.CoreCompileInputs.cache
+C:\Users\delya\source\repos\W5E5ListSerialization\W5E5ListSerialization\obj\Debug\W5E5ListSerialization.exe
+C:\Users\delya\source\repos\W5E5ListSerialization\W5E5ListSerialization\obj\Debug\W5E5ListSerialization.pdb

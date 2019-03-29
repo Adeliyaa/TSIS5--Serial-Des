@@ -1,0 +1,7 @@
+C:\Users\delya\source\repos\W5E4ComplexNum\W5E4ComplexNum\bin\Debug\W5E4ComplexNum.exe.config
+C:\Users\delya\source\repos\W5E4ComplexNum\W5E4ComplexNum\bin\Debug\W5E4ComplexNum.exe
+C:\Users\delya\source\repos\W5E4ComplexNum\W5E4ComplexNum\bin\Debug\W5E4ComplexNum.pdb
+C:\Users\delya\source\repos\W5E4ComplexNum\W5E4ComplexNum\obj\Debug\W5E4ComplexNum.csprojAssemblyReference.cache
+C:\Users\delya\source\repos\W5E4ComplexNum\W5E4ComplexNum\obj\Debug\W5E4ComplexNum.csproj.CoreCompileInputs.cache
+C:\Users\delya\source\repos\W5E4ComplexNum\W5E4ComplexNum\obj\Debug\W5E4ComplexNum.exe
+C:\Users\delya\source\repos\W5E4ComplexNum\W5E4ComplexNum\obj\Debug\W5E4ComplexNum.pdb

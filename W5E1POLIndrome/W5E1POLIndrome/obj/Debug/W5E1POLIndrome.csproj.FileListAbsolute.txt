@@ -1,0 +1,7 @@
+C:\Users\delya\source\repos\W5E1POLIndrome\W5E1POLIndrome\bin\Debug\W5E1POLIndrome.exe.config
+C:\Users\delya\source\repos\W5E1POLIndrome\W5E1POLIndrome\bin\Debug\W5E1POLIndrome.exe
+C:\Users\delya\source\repos\W5E1POLIndrome\W5E1POLIndrome\bin\Debug\W5E1POLIndrome.pdb
+C:\Users\delya\source\repos\W5E1POLIndrome\W5E1POLIndrome\obj\Debug\W5E1POLIndrome.csprojAssemblyReference.cache
+C:\Users\delya\source\repos\W5E1POLIndrome\W5E1POLIndrome\obj\Debug\W5E1POLIndrome.csproj.CoreCompileInputs.cache
+C:\Users\delya\source\repos\W5E1POLIndrome\W5E1POLIndrome\obj\Debug\W5E1POLIndrome.exe
+C:\Users\delya\source\repos\W5E1POLIndrome\W5E1POLIndrome\obj\Debug\W5E1POLIndrome.pdb
