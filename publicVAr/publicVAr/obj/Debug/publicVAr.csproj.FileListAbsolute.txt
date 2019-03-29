@@ -1,0 +1,6 @@
+C:\Users\delya\source\repos\publicVAr\publicVAr\obj\Debug\publicVAr.csproj.CoreCompileInputs.cache
+C:\Users\delya\source\repos\publicVAr\publicVAr\bin\Debug\publicVAr.exe.config
+C:\Users\delya\source\repos\publicVAr\publicVAr\bin\Debug\publicVAr.exe
+C:\Users\delya\source\repos\publicVAr\publicVAr\bin\Debug\publicVAr.pdb
+C:\Users\delya\source\repos\publicVAr\publicVAr\obj\Debug\publicVAr.exe
+C:\Users\delya\source\repos\publicVAr\publicVAr\obj\Debug\publicVAr.pdb

@@ -1,0 +1,7 @@
+C:\Users\delya\source\repos\SerialOverview\SerialOverview\bin\Debug\SerialOverview.exe.config
+C:\Users\delya\source\repos\SerialOverview\SerialOverview\bin\Debug\SerialOverview.exe
+C:\Users\delya\source\repos\SerialOverview\SerialOverview\bin\Debug\SerialOverview.pdb
+C:\Users\delya\source\repos\SerialOverview\SerialOverview\obj\Debug\SerialOverview.csprojAssemblyReference.cache
+C:\Users\delya\source\repos\SerialOverview\SerialOverview\obj\Debug\SerialOverview.csproj.CoreCompileInputs.cache
+C:\Users\delya\source\repos\SerialOverview\SerialOverview\obj\Debug\SerialOverview.exe
+C:\Users\delya\source\repos\SerialOverview\SerialOverview\obj\Debug\SerialOverview.pdb
